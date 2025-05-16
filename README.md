@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Prazer! Eu sou David, 23 anos, de Araras, São Paulo.<br><br>🔭 Atualmente, trabalho em uma solução  Data Mesh, focando na descentralização de dados e na criação de uma plataforma como serviço (PaaS) para acesso otimizado.<br><br>📚 Estou aprimorando meus conhecimentos em TypeScript e manipulação de dados, com foco em soluções escaláveis e eficientes.<br><br>⚡ Nas horas vagas, gosto de estudar ou jogar jogos eletrônicos, sempre buscando novas formas de melhorar minhas habilidades.</p>
+<p align="left">Prazer! Eu sou David, 24 anos, de Araras, São Paulo.<br><br>🔭 Atualmente, trabalho em uma solução  Data Mesh, focando na descentralização de dados e na criação de uma plataforma como serviço (PaaS) para acesso otimizado.<br><br>📚 Estou aprimorando meus conhecimentos em TypeScript e manipulação de dados, com foco em soluções escaláveis e eficientes.<br><br>⚡ Nas horas vagas, gosto de estudar ou jogar jogos eletrônicos, sempre buscando novas formas de melhorar minhas habilidades.</p>
 
 ###
 
